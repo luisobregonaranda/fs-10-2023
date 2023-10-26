@@ -1,0 +1,9 @@
+Comandos git
+/>git init
+/>git add .
+/>git commit -m "mensaje"
+/>git remote add origin https://github.com/emaravi/expert2508.git
+/>git push -u origin master
+
+//para refrescar los datos del MS
+[POST]localhost:8005/actuator/refresh  
